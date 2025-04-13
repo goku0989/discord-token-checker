@@ -1,4 +1,4 @@
-# discord-token-checker
+# discord-token-checker-fetcher
 
 ## 🔐 Discord Token Checker & Bot Auto-Configurator
 
