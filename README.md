@@ -23,3 +23,5 @@ This tool allows you to **check Discord user tokens**, **retrieve account inform
 ### ⚠️ Disclaimer
 
 This tool uses **private/internal Discord APIs**, which may violate Discord’s Terms of Service. **Use at your own risk.** This project is for **educational and testing purposes only**.
+![image](https://github.com/user-attachments/assets/72639a01-7324-4a48-875d-8d443e700e05)
+
